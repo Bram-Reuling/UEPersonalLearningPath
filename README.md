@@ -25,7 +25,7 @@ Intro
 - [(Documentation) Game Mode and Game State](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Framework/GameMode/)
 
 
-## Scripting
+## Scripting Fundamentals
 
 ### Blueprints
 - [(Course - 57m) Blueprint Kickstart](https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-kickstart)
