@@ -3,16 +3,16 @@ Intro
 
 ## Engine Fundamentals
 
-#### Coming from Unity:
+### Coming from Unity:
 - [(Course) Making the switch from Unity to Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses/making-the-switch-from-unity-to-unreal-engine)
 - [(Documentation) Unreal Engine for Unity Devs](https://docs.unrealengine.com/4.27/en-US/Basics/UnrealEngineForUnityDevs/)
 
-#### Editor Fundamentals:
+### Editor Fundamentals:
 - [(Course) Unreal Editor Fundamentals - Editor Introduction](https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---editor-introduction)
 - [(Course) Introducing Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine)
 - [(Course) Your First Hour in Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4)
 
-#### Gameplay Framework:
+### Gameplay Framework:
 - [(Documentation) Gameplay Framework](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Framework/)
 - [(Documentation) Quick Reference](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Framework/QuickReference/)
 - [(Documentation) Game Flow](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Framework/GameFlow/)
@@ -27,16 +27,16 @@ Intro
 
 ## Scripting
 
-#### Blueprints
+### Blueprints
 - [(Course) Blueprint Kickstart](https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-kickstart)
 - [(Course) Blueprints - Essential Concepts](https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts)
 - [(Course) Blueprints and Gameplay for Game Designers](https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers)
 
-#### C++ 
+### C++ 
 
-#### Combined
+### Combined
 
-##### Gameplay How-To Guides:
+#### Gameplay How-To Guides:
 - [(Guide) Setting Up Character Movement](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/HowTo/CharacterMovement/)
 - [(Guide) Setting Up a Game Mode](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/HowTo/SettingUpAGameMode/)
 - [(Guide) Possessing Pawns](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/HowTo/PossessPawns/)
@@ -44,6 +44,6 @@ Intro
 - [(Guide) Finding Actors](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/HowTo/FindingActors/)
 - [(Guide) Using the OnHit Event](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/HowTo/FindingActors/)
 
-##### Utility
+#### Utility
 - [(Documentation) Traces Overview](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Tracing/Overview/)
 - [(Documentation) Timers](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/UseTimers/)
