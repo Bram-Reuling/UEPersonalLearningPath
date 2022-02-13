@@ -33,6 +33,10 @@ Intro
 - [(Course - 1h40m) Blueprints and Gameplay for Game Designers](https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers)
 
 ### C++ 
+- [(Documentation) Visual Studio Setup](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/DevelopmentSetup/VisualStudioSetup/)
+- [(Course - 44m) Programming Kickstart](https://www.unrealengine.com/en-US/onlinelearning-courses/programming-kickstart)
+- [(Documentation) Programming Quickstart](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ProgrammingWithCPP/CPPProgrammingQuickStart/)
+- [(Documentation) Introduction to C++ Programming in UE4](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ProgrammingWithCPP/IntroductionToCPP/)
 
 ### Combined
 
