@@ -4,13 +4,13 @@ Intro
 ## Engine Fundamentals
 
 ### Coming from Unity:
-- [(Course) Making the switch from Unity to Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses/making-the-switch-from-unity-to-unreal-engine)
+- [(Course - 2h5m) Making the switch from Unity to Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses/making-the-switch-from-unity-to-unreal-engine)
 - [(Documentation) Unreal Engine for Unity Devs](https://docs.unrealengine.com/4.27/en-US/Basics/UnrealEngineForUnityDevs/)
 
 ### Editor Fundamentals:
-- [(Course) Unreal Editor Fundamentals - Editor Introduction](https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---editor-introduction)
-- [(Course) Introducing Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine)
-- [(Course) Your First Hour in Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4)
+- [(Course - 1h33m) Unreal Editor Fundamentals - Editor Introduction](https://www.unrealengine.com/en-US/onlinelearning-courses/unreal-editor-fundamentals---editor-introduction)
+- [(Course - 1h9m) Introducing Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/introducing-unreal-engine)
+- [(Course - 55m) Your First Hour in Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses/your-first-hour-in-unreal-engine-4)
 
 ### Gameplay Framework:
 - [(Documentation) Gameplay Framework](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Framework/)
@@ -28,9 +28,9 @@ Intro
 ## Scripting
 
 ### Blueprints
-- [(Course) Blueprint Kickstart](https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-kickstart)
-- [(Course) Blueprints - Essential Concepts](https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts)
-- [(Course) Blueprints and Gameplay for Game Designers](https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers)
+- [(Course - 57m) Blueprint Kickstart](https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-kickstart)
+- [(Course - 1h13m) Blueprints - Essential Concepts](https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints---essential-concepts)
+- [(Course - 1h40m) Blueprints and Gameplay for Game Designers](https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers)
 
 ### C++ 
 
